@@ -1,0 +1,2 @@
+# NewCMakeLibrary
+New C++ library
